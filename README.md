@@ -1,4 +1,5 @@
 Project Dependencies 
+
 •	Ruby - ruby 2.5.5 (with DEVKIT)
 
 •	RubyMine ( i prefer) 
